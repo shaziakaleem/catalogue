@@ -2,4 +2,4 @@
 Django allAuth set up. Python, django and Rest framework.
 
 To set up run:
-## pip install -m requirements
+###### pip install -m requirements
